@@ -10,3 +10,9 @@ Put the script in the same folder you want the comicstripes. E.g. if you want yo
 
 The script takes one argument, which is the number of the most recent xkcd picture. You can find this number on www.xkcd.com
 
+In the following image, the number is marked with a red box.
+
+![alt tag](https://raw.github.com/anddri/xkcdDownloader/.png)
+
+This number varies, as there are added more pictures all the time.
+
