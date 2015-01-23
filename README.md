@@ -12,8 +12,10 @@ The script takes one argument, which is the number of the most recent xkcd pictu
 
 In the following image, the number is marked with a red box.
 
-![alt tag](xkcd_downloader_how_to_most_recent_picture.png)
+![Screenshot from xkcd webpage showing the number you have to give as commandline argument.](xkcd_downloader_how_to_most_recent_picture.png)
 
 This number varies, as there are added more pictures all the time.
 
 Example usage
+
+![An example showing how to use the script.](how_to_example_use.png)
