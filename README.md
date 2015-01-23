@@ -16,3 +16,4 @@ In the following image, the number is marked with a red box.
 
 This number varies, as there are added more pictures all the time.
 
+Example usage
