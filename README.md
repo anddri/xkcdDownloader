@@ -1,6 +1,6 @@
 # xkcdDownloader
 
-Who doesn't like xkcd comic strips? I made a little downloading script in Python, that will let you download all of the comics on from the site. I makes use of urllib2 to download the comicstripes.
+Who doesn't like xkcd comic stripes? I made a little downloading script in Python, that will let you download all of the comics from the website. I makes use of urllib2 to download the comicstripes.
 
 
 
